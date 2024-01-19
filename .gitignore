@@ -1,3 +1,5 @@
 build
 .vscode
 model/*
+dataset/train
+dataset/test
